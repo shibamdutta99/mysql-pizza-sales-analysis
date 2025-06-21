@@ -1,5 +1,7 @@
 # 🍕 MySQL Pizza Sales Analysis
 
+![Project Banner](./thumbnail.png)
+
 This project is an end-to-end SQL-based data analysis of a fictional pizza restaurant's sales data. The goal is to derive meaningful insights from raw transactional data using SQL queries and summarize key business metrics.
 
 ---
